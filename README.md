@@ -22,12 +22,11 @@ My favorite language is Python.I love open-source and life is more beautiful wit
 [![](https://img.shields.io/badge/-python3-orange?style=for-the-badge&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/-c-orange?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 
-[![](https://img.shields.io/badge/-angular-green?style=for-the-badge&logo=angular)](https://angular.io/)
-[![](https://img.shields.io/badge/-react-green?style=for-the-badge&logo=react)](https://reactjs.org/)
+
 
 ## Contact Me
 
-[![](https://img.shields.io/badge/-pahram.alvani@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:tahera.fahimi@ucalgary.ca)
+[![](https://img.shields.io/badge/-tahera.fahimi@ucalgary.ca-lightgray?style=for-the-badge&logo=gmail)](mailto:tahera.fahimi@ucalgary.ca)
 
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
@@ -36,7 +35,7 @@ My favorite language is Python.I love open-source and life is more beautiful wit
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahifahimi&show_icons=true&theme=monokai" alt="Parham Alvani's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahifahimi&theme=monokai" alt="Parham Alvani's Github Steak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahifahimi&show_icons=true&theme=monokai" alt="Tahera's GitHub stats" /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahifahimi&theme=monokai" alt="Tahera's Github Steak" />
 </p>
 
