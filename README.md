@@ -31,11 +31,11 @@ My favorite language is Python.I love open-source and life is more beautiful wit
 <!--<p align="center">
   <img src="https://raw.githubusercontent.com/1995parham/1995parham/master/bernard.gif"></img>
 </p>-->
-
+<!--
 ## Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tahifahimi&show_icons=true&theme=monokai" alt="Tahera's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahifahimi&theme=monokai" alt="Tahera's Github Steak" />
 </p>
-
+-->
